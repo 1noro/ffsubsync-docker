@@ -1,2 +1,3 @@
 # ffsubsync-docker
-Dockerized ffsubsync
+
+Dockerized ffsubsync (https://github.com/smacke/ffsubsync)
